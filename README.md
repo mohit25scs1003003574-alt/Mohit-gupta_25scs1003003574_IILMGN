@@ -18,7 +18,7 @@ A simple Python GUI application that classifies waste into appropriate bins (Wet
 
 ## ▶️ How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   
 
 2. Go to the project folder:
    cd your-repo-name
